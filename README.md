@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I am Otso</h1>
-<h3 align="center">A beginner programmer</h3>
+<h1 align="left">Hi, I am Otso</h1>
+<h3 align="left">A beginner programmer</h3>
 
 - 📫 How to reach me **Otso.kasnio@gmail.com**
 
