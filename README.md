@@ -1,7 +1,8 @@
 <h1 align="left">Hi, I am Otso</h1>
-<h3 align="left">A beginner programmer</h3>
-
+I am Otso I started learning studying programming last year
+<p></p>
 - 📫 How to reach me **Otso.kasnio@gmail.com**
+- 🌱 I’m currently learning c#, SQL
 
 <p align="left">
 </p>
