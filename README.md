@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I am Otso</h1>
-I am Otso I started learning studying programming last year
+I am Otso I started  studying programming in 2024
 <p></p>
 - 📫 How to reach me **Otso.kasnio@gmail.com**
 <p></p>
