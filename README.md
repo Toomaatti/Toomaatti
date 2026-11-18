@@ -5,7 +5,6 @@ I am Otso I started  studying programming in 2024
 <p></p>
 - 🌱 I’m currently learning c#, SQL
 <p>
-https://github.com/Gradia-Ohjelmistokehitys-2023/graafiset-k-ytt-liittym-t-Toomaatti/tree/main/120_Omatyo/120_Muistipeli
 </p>
 <p align="left">
 </p>
