@@ -3,7 +3,7 @@ I am Otso I started  studying programming in 2024
 <p></p>
 - 📫 How to reach me **Otso.kasnio@gmail.com**
 <p></p>
-- 🌱 I’m currently learning c#, SQL
+- 🌱 I’m currently learning gdscript
 <p>
 </p>
 <p align="left">
