@@ -72,4 +72,4 @@ This experience helped me understand how software development works in a profess
 
 ## Contact
 - [linkedin](https://www.linkedin.com/in/otso-kasnio-325611380/)
-- 📫 Email: otso.kasnio&#64;gmail.com
+- 📫 Email: otso.kasnio@&#8203;gmail.com
