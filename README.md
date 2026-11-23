@@ -2,6 +2,11 @@
 
 I'm a programming student who started studying programming in 2024. I'm interested in software development and game development, and I enjoy learning new technologies by working on personal projects.
 
+📄 **CV (PDF):**
+[English](https://Toomaatti.github.io/Toomaatti/CV_EN.pdf) |
+[Suomeksi](https://Toomaatti.github.io/Toomaatti/CV_FI.pdf)
+
+
 ## Languages and Tools
 
 - C#
