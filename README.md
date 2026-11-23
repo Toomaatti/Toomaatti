@@ -16,7 +16,7 @@ I'm a programming student who started studying programming in 2024. I'm interest
 
 ### 1. Top-Down Puzzle Game
 
-A 2D top-down puzzle game developed with Godot 4 and GDScript. The game focuses on exploration, interaction and solving puzzles using objects in the environment.
+A 2D top-down puzzle game developed with Godot 4 and GDScript. The game focuses on exploration, interaction and solving puzzles using objects in the environment. Still a work in progress
 
 **Technologies:** Godot 4, GDScript
 
